@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .server {
+      width: 300px;
+      background: greenyellow;
+    }
+  </style>
+  <title>Bangkoop</title>
+</head>
+
+<body>
+  
+  <div>KOMPUTER KU</div>
+  <div>Aku beli di tahun 2017, dengan harga 3tj</div>
+  <div>Spek PC</div>
+  <div>
+  <p>Prosesor AMD A8 6750K 4core 4 thered </p>
+  <p>RAM 12 gb ddr3, 1600</p>
+  <p>SSD 120 gb</p>
+  <p>VGA onboard / tidak pakai VGA card<p>
+  <p>kyboard votre 30k</p>
+  <p>mouse bloody 70 </p>
+  
+  <div> OK itu gais spek pc aku, sangat menyingkong sekali ges yak</div>
+  <div> yuk Bantu Bangkoop cuma Rp1000 saja </div>
+  <a href="https://sociabuzz.com/bangkoop/tribe"> click di sini </a>
+  
+
+
+</body>
+
+</html>
